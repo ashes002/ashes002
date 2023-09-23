@@ -1,6 +1,6 @@
-- 👋 Hi, I’m arush
-- 💞️ I’m looking to collaborate on kaggle competitions @arushk007
-- 📫 How to reach me arushkumarak0@gmail.com
+* Building slick LLMs
+* Average unsupervised learning aficionado
+* Pytorch and kaggle stan
 
 <!---
 ashes002/ashes002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
