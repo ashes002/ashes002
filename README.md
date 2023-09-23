@@ -1,3 +1,4 @@
+* Undergrad CS+Maths
 * Building slick LLMs
 * Average unsupervised learning aficionado
 * Pytorch and kaggle stan
